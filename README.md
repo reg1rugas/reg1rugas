@@ -19,16 +19,6 @@ const AboutMe = {
 ```
 
 
-### 📁 Future Projects:
-- #### Miscellaneous:
-  - [**HomeSec - A Machine learning based home security system powered by Raspberry pi**](https://www.raspberrypi.org/)
-  - [**PriceDelta - An online price comparision website of sites like Amazon, Flipkart etc**](https://www.amazon.in/)
-  - [**Game-dev -A physics based game using some popular engine(I'll probably make an Ai that plays it for me :p)**](https://unity.com/)
-  - [**Portfolio -A portfolio website to showcase**](https://github.com/Aditya-Gaur/Aditya-Gaur/)
-  - [**Decentralized-irc - A decentralized chatting service**](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
-  - [**DarkSide - A universal dark mode extension**](https://chrome.google.com/webstore/search/dark%20mode?hl=en)
-  - [**ArcIg - A neural network based anime~ish image generator**](https://www.ibm.com/cloud/learn/neural-networks)
-  - [**Lots & lots cybersec projects and AI/ML application projects**](https://github.com/Aditya-Gaur/Aditya-Gaur/)
   
 <h3>Github Stats</h2>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gaur&theme=radical" alt="Aditya-Gaur" />
