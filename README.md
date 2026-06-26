@@ -3,7 +3,7 @@
 Aditya-Gaur/Aditya-Gaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Enlo! Adrick here <img src="https://media.tenor.com/548Nr-Kf-_IAAAAi/wave-money.gif" width="45px" height="45px"></h2>
+<h2 align="left">!?Adrick here <img src="https://media.tenor.com/548Nr-Kf-_IAAAAi/wave-money.gif" width="45px" height="45px"></h2>
 
 
 
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 const AboutMe = {
   Name: "Aditya Gaur",
   Pronouns: ["He", "Him"],
-  self: "18 smthn autodidact with love for silicon",
+  self: "19 smthn autodidact with love for silicon",
   Hobbies: [
     "Making & Tinkering with Stuff", "Programming", "Science" 
   ]
